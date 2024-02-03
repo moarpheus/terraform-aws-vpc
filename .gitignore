@@ -1,0 +1,6 @@
+**/.terraform/*
+*.swp
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.idea/*
