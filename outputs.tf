@@ -17,4 +17,3 @@ output "vpc_igw_id" {
 output "vpc_dhcp_options_id" {
   value = aws_vpc_dhcp_options_association.vpc_dhcp.id
 }
-
